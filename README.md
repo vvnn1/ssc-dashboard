@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can browse it [online](https://vvnn1.github.io/ssc/index.html#/workspace/:workspace/namespace/:namespace/dashboard).
 
 ## Available Scripts
 
